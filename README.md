@@ -1,4 +1,4 @@
-# Portfólio [Seu Nome]
+# Portfólio [BRAIAN JORGE LISBOA]
 
 Bem-vindo ao meu portfólio! Aqui você poderá explorar um pouco da minha jornada no desenvolvimento de sistemas, conhecer os projetos que realizei até agora e ver as tecnologias que estou aprendendo. Este repositório tem como objetivo mostrar minha evolução como desenvolvedor e meu interesse em crescer continuamente na área de tecnologia.
 
@@ -16,16 +16,18 @@ Estou em constante aprendizado e explorando novas possibilidades no desenvolvime
 
 ## 🛠️ Projetos
 
-### 1. **[Projeto em Grupo - Curso de Desenvolvimento de Sistemas](https://github.com/pluwyoo)**
-Este é o projeto que desenvolvi com meus colegas de curso de Desenvolvimento de Sistemas. Ao longo deste projeto, aprendi e apliquei conceitos essenciais tanto no Frontend quanto no Backend, utilizando uma combinação de linguagens como Python, PHP, C#, SQL, e outras. 
+### 1. **[Projeto em Grupo - Curso de Desenvolvimento de Sistemas](https://github.com/pluwyoo/ProjetoTDS.git)**
+
+Este é o projeto que desenvolvi com meus colegas de curso de Desenvolvimento de Sistemas. Ao longo deste projeto, aprendi e apliquei conceitos essenciais tanto no Frontend quanto no Backend, utilizando uma combinação de linguagens como Python, PHP, C#, SQL, e outras.
 
 - **Tecnologias**: Python, C, C++, PHP, HTML, CSS, JavaScript, SQL
-- **Objetivo**: [Descreva brevemente o objetivo do projeto, o que ele resolve ou qual é sua funcionalidade principal]
-- **Visite o projeto**: [GitHub do Projeto]([(https://github.com/pluwyoo/ProjetoTDS.git)])
+- **Objetivo**: O projeto foi desenvolvido para [descrever o objetivo do projeto, o que ele resolve ou qual é sua funcionalidade principal].
+- **Visite o projeto**: [ProjetoTDS](https://github.com/pluwyoo/ProjetoTDS.git)
 
 > *Esse projeto foi uma experiência colaborativa em que pude aprender conceitos essenciais de desenvolvimento web, tanto na parte visual (frontend) quanto na lógica e estrutura de dados (backend).*
 
 ### 2. **[Projeto Pessoal - Nome do Projeto](link-do-projeto)**
+
 Este é um projeto que estou desenvolvendo de forma independente para aprimorar minhas habilidades e explorar novas tecnologias.
 
 - **Tecnologias**: [adicione as tecnologias que está usando no projeto, como React, Node.js, etc.]
@@ -34,7 +36,7 @@ Este é um projeto que estou desenvolvendo de forma independente para aprimorar 
 
 ## 💼 Sobre Mim
 
-Sou [Seu Nome], um estudante de Desenvolvimento de Sistemas apaixonado por tecnologia e pela criação de soluções inovadoras. Ao longo do meu curso, tive a oportunidade de trabalhar com várias linguagens e tecnologias, o que me deu uma base sólida para continuar evoluindo como desenvolvedor(a).
+Sou [Braian Jorge Lisboa], um estudante de Desenvolvimento de Sistemas apaixonado por tecnologia e pela criação de soluções inovadoras. Ao longo do meu curso, tive a oportunidade de trabalhar com várias linguagens e tecnologias, o que me deu uma base sólida para continuar evoluindo como desenvolvedor(a).
 
 Tenho interesse em expandir meu conhecimento, principalmente em tecnologias de frontend como React, SCSS e Vue.js, além de me aprofundar no uso de TypeScript e Node.js para projetos de backend. Estou sempre em busca de aprender mais e de contribuir para a comunidade de código aberto.
 
@@ -42,9 +44,9 @@ Atualmente, busco oportunidades para aplicar o que aprendi e continuar aprendend
 
 ## 📫 Como me encontrar
 
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/seu-linkedin)
-- **Email**: [seu.email@exemplo.com](mailto:seu.email@exemplo.com)
-- **Twitter**: [@seuTwitter](https://twitter.com/seuTwitter)
+- **LinkedIn**: [Braian Jorge Lisboa](https://www.linkedin.com/in/braian-jorge-lisboa-373997290/)
+- **Email**: [braianlisboa0927@gmail.com](mail.to:braianlisboa0927@gmail.com)
+- **Instagram**: [@szplutoo](https://www.instagram.com/szplutoo/)
 
 ## 💡 Contribuições
 
