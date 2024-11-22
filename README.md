@@ -21,7 +21,7 @@ Este é o projeto que desenvolvi com meus colegas de curso de Desenvolvimento de
 
 - **Tecnologias**: Python, C, C++, PHP, HTML, CSS, JavaScript, SQL
 - **Objetivo**: [Descreva brevemente o objetivo do projeto, o que ele resolve ou qual é sua funcionalidade principal]
-- **Visite o projeto**: [GitHub do Projeto](https://github.com/pluwyoo)
+- **Visite o projeto**: [GitHub do Projeto]([(https://github.com/pluwyoo/ProjetoTDS.git)])
 
 > *Esse projeto foi uma experiência colaborativa em que pude aprender conceitos essenciais de desenvolvimento web, tanto na parte visual (frontend) quanto na lógica e estrutura de dados (backend).*
 
