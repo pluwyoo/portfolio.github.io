@@ -45,7 +45,7 @@ Atualmente, busco oportunidades para aplicar o que aprendi e continuar aprendend
 ## 📫 Como me encontrar
 
 - **LinkedIn**: [Braian Jorge Lisboa](https://www.linkedin.com/in/braian-jorge-lisboa-373997290/)
-- **Email**: [braianlisboa0927@gmail.com](mail.to:braianlisboa0927@gmail.com)
+- **Email**: [braianlisboa0927@gmail.com](email.to:braianlisboa0927@gmail.com)
 - **Instagram**: [@szplutoo](https://www.instagram.com/szplutoo/)
 
 ## 💡 Contribuições
