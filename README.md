@@ -32,7 +32,7 @@ Este é um projeto que estou desenvolvendo de forma independente para aprimorar 
 
 - **Tecnologias**: [Html5,Css3 e JavaSript]
 - **Objetivo**: [O principal objetivo deste projeto é demonstrar minhas habilidades e aprimorar meus conhecimentos sobre o desenvolvimento web, futuramente pretendo migrar as linguagens utilizadas neste projetos para linguagens atuais como TypeScript, React e NodeJS ]
-- **Visite o projeto**: [link-do-site](https://pluwyoo.github.io/PORTFOLIO/)
+- **Visite o projeto**: [portfólio](https://pluwyoo.github.io/PORTFOLIO/)
 
 ## 💼 Sobre Mim
 
@@ -45,7 +45,7 @@ Atualmente, busco oportunidades para aplicar o que aprendi e continuar aprendend
 ## 📫 Como me encontrar
 
 - **LinkedIn**: [Braian Jorge Lisboa](https://www.linkedin.com/in/braian-jorge-lisboa-373997290/)
-- **Email**: [braianlisboa0927@gmail.com](email.to:braianlisboa0927@gmail.com)
+- **Email**: [braianlisboa0927@gmail.com](braianlisboa0927@gmail.com)
 - **Instagram**: [@szplutoo](https://www.instagram.com/szplutoo/)
 
 ## 💡 Contribuições
