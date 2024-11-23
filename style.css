@@ -1,0 +1,171 @@
+/* Reset de margens e paddings */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    background-color: #1a1a1a; /* Cor de fundo preto */
+    color: #ddd; /* Cor do texto em cinza claro */
+}
+
+/* Header */
+header {
+    background-color: #6a3ea0; /* Roxo */
+    color: #fff;
+    padding: 30px 0;
+    text-align: center;
+    border-bottom: 5px solid #9b59b6; /* Lilás */
+}
+
+header h1 {
+    margin-bottom: 10px;
+    font-size: 2.5em;
+}
+
+header p {
+    font-size: 1.2em;
+}
+
+/* Container para alinhar o conteúdo */
+.container {
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Seção "Sobre Mim" */
+.about {
+    padding: 60px 0;
+    background-color: #2c2c2c; /* Fundo escuro */
+    text-align: center;
+}
+
+.about h2 {
+    color: #9b59b6; /* Lilás */
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 1.2em;
+    margin-top: 20px;
+    color: #ddd;
+}
+
+/* Seção "Minhas Habilidades" */
+.skills {
+    padding: 60px 0;
+    background-color: #1a1a1a; /* Fundo preto */
+    text-align: center;
+}
+
+.skills h2 {
+    color: #9b59b6; /* Lilás */
+    margin-bottom: 20px;
+}
+
+.skills ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 0;
+}
+
+.skills li {
+    background-color: #6a3ea0; /* Roxo */
+    color: white;
+    margin: 10px;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1.2em;
+    transition: background-color 0.3s ease;
+}
+
+.skills li:hover {
+    background-color: #9b59b6; /* Lilás em hover */
+}
+
+/* Seção "Contato" */
+.contact {
+    padding: 60px 0;
+    background-color: #2c2c2c; /* Fundo escuro */
+    text-align: center;
+}
+
+.contact h2 {
+    color: #9b59b6; /* Lilás */
+    margin-bottom: 20px;
+}
+
+.contact form {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #333;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact label {
+    display: block;
+    margin-top: 15px;
+    color: #ddd;
+}
+
+.contact input, .contact textarea {
+    width: 100%;
+    padding: 12px;
+    margin-top: 5px;
+    border: 1px solid #6a3ea0; /* Roxo claro */
+    border-radius: 5px;
+    background-color: #1a1a1a; /* Preto */
+    color: #fff;
+}
+
+.contact button {
+    margin-top: 20px;
+    padding: 12px 20px;
+    background-color: #6a3ea0; /* Roxo */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.1em;
+}
+
+.contact button:hover {
+    background-color: #9b59b6; /* Lilás em hover */
+}
+
+/* Footer */
+footer {
+    background-color: #1a1a1a; /* Fundo preto */
+    color: #bbb;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .skills ul {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .contact form {
+        padding: 20px;
+    }
+
+    header h1 {
+        font-size: 2em;
+    }
+
+    header p {
+        font-size: 1em;
+    }
+}
