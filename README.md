@@ -26,13 +26,13 @@ Este é o projeto que desenvolvi com meus colegas de curso de Desenvolvimento de
 
 > *Esse projeto foi uma experiência colaborativa em que pude aprender conceitos essenciais de desenvolvimento web, tanto na parte visual (frontend) quanto na lógica e estrutura de dados (backend).*
 
-### 2. **[Projeto Pessoal - Nome do Projeto](link-do-projeto)**
+### 2. **[Projeto Pessoal - Portfólio](https://pluwyoo.github.io/PORTFOLIO/)**
 
 Este é um projeto que estou desenvolvendo de forma independente para aprimorar minhas habilidades e explorar novas tecnologias.
 
-- **Tecnologias**: [adicione as tecnologias que está usando no projeto, como React, Node.js, etc.]
-- **Objetivo**: [Descreva o objetivo do projeto, funcionalidades e quaisquer outros detalhes relevantes]
-- **Visite o projeto**: [link-do-site](link-do-site)
+- **Tecnologias**: [Html5,Css3 e JavaSript]
+- **Objetivo**: [O principal objetivo deste projeto é demonstrar minhas habilidades e aprimorar meus conhecimentos sobre o desenvolvimento web, futuramente pretendo migrar as linguagens utilizadas neste projetos para linguagens atuais como TypeScript, React e NodeJS ]
+- **Visite o projeto**: [link-do-site](https://pluwyoo.github.io/PORTFOLIO/)
 
 ## 💼 Sobre Mim
 
